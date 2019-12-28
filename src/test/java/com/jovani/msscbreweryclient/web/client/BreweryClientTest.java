@@ -78,5 +78,4 @@ class BreweryClientTest {
         this.breweryClient.deleteCustomer(UUID.randomUUID());
     }
 
-
 }
